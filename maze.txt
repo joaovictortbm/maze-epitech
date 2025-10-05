@@ -1,4 +1,10 @@
-****
-*XX*
-*XX*
-****
+*****XXXX******XXXX****XXXX*
+*XX****XX***XXXXX***XX***XX*
+*XX**XXXX**XXXXX****XXX****X
+*XX***XXXX*XXXXXX***XX***XXX
+*****XXXXX****XX***XXX***XX*
+*XX*************XXXX***XX***
+*XXX***XXXXXX***XXXXX***XXXX
+*XXXX****XX****XXXXX***XXXX*
+*XXXXX*********XXXXXX***XXX*
+****************************
