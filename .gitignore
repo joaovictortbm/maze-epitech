@@ -1,13 +1,2 @@
-# Object files
 *.o
-
-# Compiled binary   
-solver
-
-# Debug files
-*.out
 *.exe
-
-# Backup files
-*.log
-*.tmp
